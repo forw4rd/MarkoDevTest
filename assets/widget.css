@@ -1,0 +1,17 @@
+.screen{
+    width: 100%;
+    display: block;
+    border: 2px #1a1a1a solid;
+    box-shadow: 1px 1px #2e4453;
+    owerflow:hidden;
+    font-size: 22px;
+}
+
+#Kalkulator{
+    background-color: #4f748e;
+    border-radius: 5%;
+}
+
+#MarkoKalkulator{
+    padding: 10%;
+}
